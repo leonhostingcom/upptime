@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/leonhosting.com.ico",
     "slug": "leonhosting-com",
     "status": "down",
-    "uptime": "94.99%",
+    "uptime": "94.84%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "82.25%",
-    "uptimeMonth": "94.99%",
-    "uptimeYear": "94.99%",
+    "uptimeWeek": "81.70%",
+    "uptimeMonth": "94.84%",
+    "uptimeYear": "94.84%",
     "time": 124,
-    "timeDay": 98,
+    "timeDay": 96,
     "timeWeek": 124,
     "timeMonth": 124,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2024-06-24": 967,
+      "2024-06-24": 1023,
       "2024-06-23": 821
     }
   }
